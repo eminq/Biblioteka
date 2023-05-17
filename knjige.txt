@@ -1,0 +1,56 @@
+id: 100
+naziv: Ana Karenjina
+pisac: Lav Tolstoj
+rok: 30
+id: 101
+naziv: Ana Karenjina
+pisac: Lav Tolstoj
+rok: 30
+id: 102
+naziv: Ana Karenjina
+pisac: Lav Tolstoj
+rok: 30
+id: 103
+naziv: Rat i mir
+pisac: Lav Tolstoj
+rok: 15
+id: 104
+naziv: Rat i mir
+pisac: Lav Tolstoj
+rok: 15
+id: 105
+naziv: Rat i mir
+pisac: Lav Tolstoj
+rok: 15
+id: 106
+naziv: Rat i mir
+pisac: Lav Tolstoj
+rok: 15
+id: 107
+naziv: Ema
+pisac: Dzejn Ostin
+rok: 30
+id: 108
+naziv: Ema
+pisac: Dzejn Ostin
+rok: 30
+id: 756
+naziv: Prokleta avlija
+pisac: Ivo Andric
+rok: 15
+id: 939
+naziv: Prokleta avlija
+pisac: Ivo Andric
+rok: 15
+id: 206
+naziv: tvrdjava
+pisac: mesa selimovic
+rok: 30
+id: 702
+naziv: tvrdjava
+pisac: mesa selimovic
+rok: 30
+id: 178
+naziv: tvrdjava
+pisac: mesa selimovic
+rok: 30

@@ -1,0 +1,10 @@
+knjiga_id: 100
+br_clana: 1
+godina_zaduzenja: 2023
+mjesec_zaduzenja: 1
+dan_zaduzenja: 18
+knjiga_id: 756
+br_clana: 4
+godina_zaduzenja: 2023
+mjesec_zaduzenja: 1
+dan_zaduzenja: 20
